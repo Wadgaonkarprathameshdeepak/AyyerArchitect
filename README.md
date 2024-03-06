@@ -2,7 +2,7 @@
 
 Create a single page website using HTML, CSS and JavaScript
 
-<a href="https://AR.netlify.app" target="_blank">**Visit Now** 🚀</a>
+<a href="https://AR.netlify.app" target="_blank">**Visit Now** 🚀</a> 
 
 ## 📌 Tech Stack
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/LGMVIP-WebDev/search?l=html)&nbsp;
